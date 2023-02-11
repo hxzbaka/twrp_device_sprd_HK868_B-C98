@@ -1,6 +1,6 @@
 # android_devices_twrp_sprd_C98-New
 # 这是什么
-这是ZGHY推出的C98新版只能电子学生证的twrp设备树
+这是ZGYD推出的C98新版智能电子学生证的twrp设备树
 * 安卓4.4.4 512M+4G 展讯(紫光展锐)SP9820e_1h10
 * 请使用对应安装版本的twrp进行编译!
 # 如何使用
