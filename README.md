@@ -5,7 +5,7 @@
 * 系统标识：sp9820e_1h10
 * 请使用对应安安卓版本的twrp进行编译!
 # 如何使用
-
-  * 把所有文件放在twrp源码的device文件夹内
-  *  然后直接开始编译twrp就可以了
-  *  警告:编译出无法启动！！！
+* 把所有文件放在./device/sprd/sp9820e_1h10ll/里面
+*  然后直接开始编译twrp就可以了
+*  把编译的twrp镜像签名刷入学生证内即可
+*  在[Releases](https://github.com/hxzbaka/twrp_device_sprd_HK868_B-C98/releases/tag/build)有编译并签名好的twrp可直接使用
